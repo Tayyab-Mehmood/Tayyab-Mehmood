@@ -16,19 +16,18 @@
 </p>
 
 ---
+
+
+
 ## 👤 About Me
 
 <table>
   <tr>
     <td width="60%" valign="top">
-      <p>
-        I am a Full Stack Developer passionate about web development and AI integration. I enjoy building modern, responsive, and user-friendly applications that solve real-world problems.
-      </p>
-      <p>
-        Currently, I am focused on improving my skills in modern web technologies and exploring AI to create smarter digital solutions with real impact.
-      </p>
+      <p>I am a Full Stack Developer with a strong interest in web development and artificial intelligence. I enjoy building modern, responsive web applications and exploring how AI can be integrated to create smarter and more efficient digital experiences.</p>
+      <p>I focus on developing clean, functional, and user-friendly solutions, from front-end interfaces to full-stack applications. My goal is to continuously improve my skills while working on projects that solve real-world problems and add value to users.</p>
+      <p>I am currently expanding my expertise in modern web technologies and AI integration, with the aim of becoming a skilled developer capable of contributing to impactful software solutions in the industry.</p>
     </td>
-
     <td width="40%" valign="center" align="center">
       <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,tailwind,bootstrap,python,nodejs,mongodb,git,vscode&perline=3" width="180px" alt="My Skills" />
     </td>
