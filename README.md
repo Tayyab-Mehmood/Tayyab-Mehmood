@@ -95,9 +95,9 @@ A console-based application that analyzes student submissions to detect plagiari
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-7dcfb6?style=flat-square&logo=facebook&logoColor=1d4e89" alt="Facebook" />
   </a>
-  <a href="mailto:tayyab.mehmood.cs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fbd1a2?style=flat-square&logo=gmail&logoColor=1d4e89" alt="Email" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&to=tayyab.mehmood.cs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ffc0cb?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-f79256?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
