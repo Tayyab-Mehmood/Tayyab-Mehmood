@@ -7,7 +7,12 @@
 </h1>
 
 <p align="center">
-  <strong>Full Stack Developer | AI Enthusiast | Problem Solver</strong>
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Mobile+App+Developer;AI+Integration;Problem+Solver" 
+      alt="Typing SVG" 
+    />
+  </a>
 </p>
 
 ---
